@@ -10,7 +10,7 @@
 ### Software used:
 Virtual Box: Linux, Ubuntu Server: Operating System, Apache2, MySQL, PHP 
 
-#### Lab pdf:
+### Lab pdf:
 For the full pdf version of this lab click on the link below, when viewing keep pressing more pages button or if the more pages button disappears press the git hub logo that is loading. 
 
 [Your Link Here](https://github.com/EA-IT2/LAMP-Stack-WebServer-Lab/blob/main/LAMP%20stack%20Web%20Server%20lab.pdf)
