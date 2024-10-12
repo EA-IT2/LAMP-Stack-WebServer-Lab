@@ -7,15 +7,15 @@
 <li>Tested connectivity of Apache2, MySQL and PHP
 <li>Set up webpages. Test connectivity between MySQL and PHP
 
+### Software used:
+Virtual Box: Linux, Ubuntu Server: Operating System, Apache2, MySQL, PHP 
 
+<br><br>
 For the full pdf version of this lab click on the link below, when viewing keep pressing more pages button or if the more pages button disappears press the git hub logo that is loading. 
 
 [Your Link Here](https://github.com/EA-IT2/LAMP-Stack-WebServer-Lab/blob/main/LAMP%20stack%20Web%20Server%20lab.pdf)
 
 
-
-### Software used:
-Virtual Box: Linux, Ubuntu Server: Operating System, Apache2, MySQL, PHP 
 
 
 <img src="img/1us.png" width="900">
